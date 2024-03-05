@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0}body{align-items:center;display:flex;flex-direction:column;height:auto;justify-content:center;padding:3% 0}.container{background-color:#eee;box-shadow:0 0 30px;padding:5%}.container,table{border-radius:5px;width:100%}table{margin-top:30px}h1,table{text-align:center}@media (min-width:375px) and (max-width:1000px){body{padding:10% 0}.container{width:100%}.form-floating{font-size:12px}}
+/*# sourceMappingURL=main.52c0110f.css.map*/
